@@ -1,0 +1,14 @@
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\bin\Debug\netcoreapp2.1\ProjektZespolowy.deps.json
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\bin\Debug\netcoreapp2.1\ProjektZespolowy.runtimeconfig.json
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\bin\Debug\netcoreapp2.1\ProjektZespolowy.runtimeconfig.dev.json
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\bin\Debug\netcoreapp2.1\ProjektZespolowy.dll
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\bin\Debug\netcoreapp2.1\ProjektZespolowy.pdb
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.csprojAssemblyReference.cache
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.csproj.CoreCompileInputs.cache
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.RazorAssemblyInfo.cache
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.RazorAssemblyInfo.cs
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.AssemblyInfoInputs.cache
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.AssemblyInfo.cs
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.RazorTargetAssemblyInfo.cache
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.dll
+C:\Users\Student227162\Desktop\Mieszkanko\ProjektZespolowy-master\ProjektZespolowy-master\ProjektZespolowy\obj\Debug\netcoreapp2.1\ProjektZespolowy.pdb
