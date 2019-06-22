@@ -13,7 +13,7 @@ namespace ProjektZespolowy.Models
         public int Win { get; set; }
         public int Loss { get; set; }
         public ICollection<User> TeamMembers { get; set; } = new List<User>();
-        public ICollection<Match> TeamMatches { get; set; } = new List<Match>();
+        //public ICollection<Match> TeamMatches { get; set; } = new List<Match>();
         
 
     }
