@@ -15,11 +15,11 @@ namespace ProjektZespolowy.Models
 
         public int Opponent1_score { get; set; }
         public int Opponent2_score { get; set; }
-
+/*
         public int TeamId { get; set; }
         [ForeignKey("TeamId")]
         public Team Team { get; set; }
-
+*/
 
         public int Opponent1_Win { get; set; }// 0 or 1 for loss/win
         public int Opponent2_Win { get; set; }// 0 or 1 for loss/win
